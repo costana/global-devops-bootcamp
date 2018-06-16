@@ -85,7 +85,7 @@ Para este laboratório, você precisará ter uma conta no Github. Caso não tenh
           acrServer: TROCAR
           acrUsername: TROCAR
           acrPassword: "TROCAR"
-        vcsSidecar: "deis/git-sidecar:v0.11.0"
+        vcsSidecar: "deis/git-sidecar:v0.14.0"
         ```
 
     * Edite os valores acima para serem as mesmas da sua conta do GitHub (há um exemplo logo abaixo)

@@ -1,0 +1,12 @@
+project: "global-devops-bootcamp"
+repository: "global-devops-bootcamp"
+cloneURL: "https://github.com/costana/global-devops-bootcamp.git"
+sharedSecret: "crie-algo-super-secreto"
+# TROQUE ISSO AQUI ACIMA! É basicamente uma senha.
+github:
+  token: "74d4a348a091933b99bb09284d442dfc55ae9b9e"
+secrets:
+  acrServer: globaldevops.azurecr.io
+  acrUsername: GlobalDevOps
+  acrPassword: "/wbEmYQnEfc75KdEcDYI7NihkVwas5TO"
+vcsSidecar: "deis/git-sidecar:v0.14.0"
